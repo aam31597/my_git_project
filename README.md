@@ -9,3 +9,5 @@
 > Made changes for git pull demo
 
 > Made more changes for the git pull/fetch demo
+
+> Small change to delete branch
